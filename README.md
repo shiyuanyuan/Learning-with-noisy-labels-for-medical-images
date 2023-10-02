@@ -2,7 +2,7 @@
 
 # A survey of label-noise deep learning for medical image analysis
 
-my paper is [here]()
+Our manuscript is under review. 
 
 ## abstract
 
@@ -145,4 +145,9 @@ This article is an introductory review, citing many other articles. For your con
 | Ju et al. (2022)           | Classification | 2D   | ISIC2019 skin cancer and Gleason 2019                  | Loss re-weighting                          | Improving medical images  classification with label noise using dual-uncertainty estimation | [link](https://arxiv.org/pdf/2103.00528.pdf)                 |
 | Liao et al. (2022)         | Classification | 3D   | Lung nodule CT                                         | Optimization policy                        | Learning from ambiguous labels  for lung nodule malignancy prediction | [link](https://arxiv.org/pdf/2104.11436.pdf)                 |
 | Wei et al. (2022b)         | Classification | 2D   | UCI Breast dataset                                     | Optimization policy                        | To aggregate or not? learning  with separate noisy labels    | [link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599522)   |
+
+
+
+We will keep updating for following studies. 
+
 
