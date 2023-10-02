@@ -14,7 +14,7 @@ This article is an introductory review, citing many other articles. For your con
 
 
 
-##### **Table 1. Some typical publications for learning with label flip noise for classification task**
+##### **Table 1. Some typical publications for learning with label noise for classification task**
 
 | Taxonomy                    | Method                                           | Typical publications             | Natural image/ Medical image | Paper name                                              | Link                                                     |
 | --------------------------- | ------------------------------------------------ | -------------------------------- | ---------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
@@ -61,7 +61,7 @@ This article is an introductory review, citing many other articles. For your con
 
 
 
-**Table 2. Some typical publications for learning with morphological noise for natural image domain**
+**Table 2. Some typical publications for learning with label noise for natural image segmentation**
 
 | Publications          | Taxonomy                | Pixel-wise noisy labels/Class-level noisy labels | Description                                       | Paper name                                                   | Link                                                         |
 | --------------------- | ----------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -73,7 +73,7 @@ This article is an introductory review, citing many other articles. For your con
 
 
 
-**Table 3. Some typical publications for learning with morphological noise for medical image domain**
+**Table 3. Some typical publications for learning with label noise for medical image segmentation**
 
 | Publications               | Taxonomy                         | paper name                                                   | Link                                                         |
 | -------------------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -91,7 +91,7 @@ This article is an introductory review, citing many other articles. For your con
 
 
 
-**Table 4. Some typical publications for learning with multi-annotator noise for medical image domain**
+**Table 4. Some typical publications for inter-observer variability for medical image domain**
 
 | Publications              | The  perspective of clean labels/noisy labels | Method                               | Task example   | Full name                                                    | Link                                                         |
 | ------------------------- | --------------------------------------------- | ------------------------------------ | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
